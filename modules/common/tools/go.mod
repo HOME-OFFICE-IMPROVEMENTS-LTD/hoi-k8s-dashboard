@@ -7,7 +7,7 @@ require (
 	github.com/air-verse/air v1.52.3
 	github.com/apache/skywalking-eyes v0.6.0
 	github.com/golangci/golangci-lint v1.60.3
-	k8s.io/code-generator v0.31.0
+	k8s.io/code-generator v0.31.1
 	sigs.k8s.io/kind v0.24.0
 )
 
